@@ -1,0 +1,26 @@
+[{
+  "title": "Python",
+  "imageSrc": "skills/python.png"
+},
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  
+  {
+    "title": "SQL",
+    "imageSrc": "skills/SQL.png"
+  },
+  {
+    "title": "Power BI",
+    "imageSrc": "skills/Power BI.png"
+  },
+  {
+    "title": "Azure",
+    "imageSrc": "skills/Azure.png"
+  }
+]
