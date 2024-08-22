@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Jr Data Solution Dev",
+    "organisation": "NHS",
+    "startDate": "Jan, 2024",
+    "endDate": "Present",
+    "experiences": ["Working in Daily Mart updates ", "Creating Dashboard "],
+    "imageSrc": "history/NHS.png"
+  },
+  {
+    "role": "IT Deployment Engineer",
+    "organisation": "NHS",
+    "startDate": "Mar, 2022",
+    "endDate": "Dec, 2023",
+    "experiences": ["Worked on User", "Support on IT/Telephoney Equipments"],
+    "imageSrc": "history/NHS.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "TechVersant",
+    "startDate": "AUg, 2019",
+    "endDate": "Dec, 2021",
+    "experiences": [
+      "Worked on Data Scicence ",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/TechV.png"
+  }
+]
