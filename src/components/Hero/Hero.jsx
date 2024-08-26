@@ -9,7 +9,8 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Kevin</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 3 years of experience using python 
+          I'm a full-stack developer with 3 years of experience using python.
+           <br />
              Reach out if you'd like to learn more!
         </p>
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
